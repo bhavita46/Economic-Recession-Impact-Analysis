@@ -1,8 +1,8 @@
-This is a project to analyze the impact of recession on the unemployment rates. 
 
-1. The data was scraped using Fred API
-2. Pre-processed the data to get the unemployment rates for the period of 1980-2023
-3. Compared with the unemployment rate at the time of COVID-19
+This project aims to assess the influence of recessions on unemployment rates through the following steps:
 
+1. Data retrieval: Utilized the Fred API for scraping relevant data.
+2. Data pre-processing: Processed the collected data to extract unemployment rates spanning the period from 1980 to 2023.
+3. Comparative analysis: Examined and compared the unemployment rates during the COVID-19 period with historical data.
 
-The graph of Year vs unemployment rates is interactive. Since GitHub does not support Plotly, we took a snippet of the graph.
+The interactive graph depicts the relationship between years and unemployment rates. Due to GitHub limitations with Plotly, a snapshot of the graph is provided for reference.
